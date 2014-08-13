@@ -1,1 +1,1 @@
- : C:\xampp\htdocs\test2\phonegap\platforms\android\CordovaLib\ant-build\AndroidManifest.xml \
+ : C:\mms\app_test\phonegap\platforms\android\CordovaLib\ant-build\AndroidManifest.xml \

@@ -1,2 +1,2 @@
 // @tag full-page
-// @require C:\xampp\htdocs\test2\app.js
+// @require C:\mms\app_test\app.js

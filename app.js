@@ -20,12 +20,14 @@ Ext.application({
 
     requires: [
         'Ext.MessageBox',
-         'Ext.device.Geolocation',
-         'Ext.Map',
-         'Ext.ux.mgd.device.Scanner',
-         'Ext.ux.mgd.tab.Sidebar',
+        'Ext.device.Geolocation',
+        'Ext.Map',
+        'Ext.ux.mgd.device.Scanner',
+        'Ext.ux.mgd.tab.Sidebar',
          // 'Ext.device.Camera'
     ],
+    models: ['Main'],
+    stores: ['Main'],
 
     views: [
         'Main'
